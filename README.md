@@ -1,7 +1,7 @@
 # Desdwyatma Portofolio
 ```
 Nama        : Desdwyatma Wahyu Wibawa
-Pekerjaan   : ...
+Status      : Coder who is still learning coding.
 ```
 
 ```py
@@ -10,6 +10,4 @@ def main():
     print("hello word")
 ```
 
-## My Portofolio
 
-1. [Belajar Fluter](https://desdwyatma.github.io/belajar-flutter/)

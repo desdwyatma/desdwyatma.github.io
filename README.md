@@ -1,28 +1,19 @@
-# 🛡️ Desdwyatma Wahyu Wibawa
+# Desdwyatma Wahyu Wibawa 🛡️
 **Quality Engineer | SDET | Playwright & Robot Framework Expert**
 
-Bachelor of Computer Engineering with over **3.5 years of experience** in driving comprehensive QA strategies across Web, Mobile (Android/iOS), and API platforms.
+Bachelor of Computer Engineering from **Telkom University** with a proven track record of **3.5+ years** in Software Quality Assurance. Expert in automating complex UI, Mobile, and API systems.
+
+## 🚀 Career Highlights
+- **Currently at FIT HUB:** Focusing on Playwright (TS/JS) automation and cross-platform (Web/Android/iOS) stability.
+- **Ex-OY! Indonesia:** 3 years of experience in Robot Framework and API testing (Mocha/Chai).
+- **Tech Stack:** TypeScript, JavaScript, Python, Java, Playwright, Robot Framework, Selenium, TestRail, and Jira.
+
+## 🛠️ Key Skills
+- **Test Automation:** Playwright, Robot Framework, Selenium.
+- **API Testing:** Mocha, Chai, Playwright API.
+- **Manual Testing:** Strategic Test Design (Positive/Negative), Defect Analysis.
+- **Process:** Agile (Scrum/Kanban), SDLC, STLC.
+- **Culture:** I am well-versed in a hybrid QA culture, effectively balancing product testing with automation development.
 
 ---
-
-### 🚀 Professional Highlights
-- **Current Focus:** Leading test automation at **FIT HUB** using **Playwright (TypeScript/JavaScript)** for complex UI and API validation.
-- **Automation Background:** 3+ years at **OY! Indonesia** developing robust frameworks with **Robot Framework (Python)** and **Mocha/Chai**.
-- **Agile Advocate:** Proactively identifying quality risks during grooming and feature reviews to accelerate deployment.
-- **Culture:** I am well-versed in a **hybrid QA culture**, effectively balancing product testing with automation development.
-
-### 🛠️ Technical Toolbox
-| Category | Stack |
-| :--- | :--- |
-| **Automation** | Playwright (TS/JS), Robot Framework (Python), Selenium (Java) |
-| **API Testing** | Mocha, Chai, Postman, Playwright API Validation |
-| **Test Management** | Testrail, Jira |
-| **Platform** | Web, Desktop, Mobile (Android & iOS) |
-| **Process** | Agile (Scrum/Kanban), SDLC, STLC |
-
-### 📈 Career Path
-- **QA Engineer** @ FIT HUB (Feb 2025 - Present)
-- **QA Engineer** @ OY! Indonesia (Jan 2022 - Feb 2025)
-
----
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/desdwyatma) | desdwyatma@gmail.com
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/desdwyatma) | desdwyatma@gmail.com

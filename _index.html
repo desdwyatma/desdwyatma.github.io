@@ -2,16 +2,98 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Desdwyatma Wahyu Wibawa | Quality Engineer Portfolio</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 40px 20px; background-color: #f8f9fa; }
+        header { border-bottom: 3px solid #007bff; padding-bottom: 20px; margin-bottom: 40px; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        h1 { color: #007bff; margin: 0; font-size: 2.5em; }
+        .subtitle { font-size: 1.3em; font-weight: 600; color: #495057; margin-top: 10px; }
+        .contact-info { margin-top: 15px; color: #6c757d; }
+        section { background: white; padding: 30px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        h2 { color: #212529; border-left: 5px solid #007bff; padding-left: 15px; margin-top: 0; margin-bottom: 20px; text-transform: uppercase; font-size: 1.2em; letter-spacing: 1px; }
+        .job-card { margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+        .job-card:last-child { border-bottom: none; }
+        .job-header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; }
+        .job-title { font-weight: bold; font-size: 1.2em; color: #000; }
+        .company { color: #007bff; text-decoration: none; font-weight: bold; }
+        .date { color: #6c757d; font-size: 0.9em; font-weight: 500; }
+        ul { padding-left: 20px; margin-top: 10px; }
+        li { margin-bottom: 8px; }
+        .skills-container { display: flex; flex-wrap: wrap; gap: 10px; }
+        .skill-badge { background: #e7f1ff; color: #007bff; padding: 6px 15px; border-radius: 50px; font-size: 0.85em; font-weight: 600; border: 1px solid #b3d7ff; }
+    </style>
 </head>
 <body>
-    <h1>Desdwyatma Portofolio</h1>
-    <code>
-        Nama        : Desdwyatma Wahyu Wibawa
-        Pekerjaan   : ...
-    </code>
-    
+
+    <header>
+        <h1>Desdwyatma Wahyu Wibawa</h1>
+        <div class="subtitle">Quality Engineer | SDET | Automation Expert</div>
+        <div class="contact-info">
+            Tangerang Selatan, Banten | <a href="mailto:desdwyatma@gmail.com" style="color: #007bff; text-decoration: none;">desdwyatma@gmail.com</a> | 
+            <a href="https://www.linkedin.com/in/desdwyatma" target="_blank" style="color: #007bff; text-decoration: none;">LinkedIn Profile</a>
+        </div>
+    </header>
+
+    <section id="summary">
+        <h2>Professional Summary</h2>
+        <p>Intellectually curious and self-motivated Computer Engineering graduate with over 3.5 years of experience driving comprehensive QA strategies. Expert in developing robust automation frameworks, primarily leveraging <strong>Playwright (TypeScript/JavaScript)</strong> and <strong>Robot Framework</strong>. Instrumental in enhancing efficiency through cross-platform testing (Web, Android, and iOS) while actively mitigating quality risks in Agile environments. I am well-versed in a hybrid QA culture, effectively balancing product testing with automation development.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Expertise</h2>
+        <div class="skills-container">
+            <span class="skill-badge">Playwright (TS/JS)</span>
+            <span class="skill-badge">Robot Framework (Python)</span>
+            <span class="skill-badge">JavaScript / TypeScript</span>
+            <span class="skill-badge">Web & Mobile Testing (Android/iOS)</span>
+            <span class="skill-badge">API Validation (Mocha & Chai)</span>
+            <span class="skill-badge">Selenium with Java</span>
+            <span class="skill-badge">TestRail & Jira</span>
+            <span class="skill-badge">Agile (Scrum/Kanban)</span>
+        </div>
+    </section>
+
+    <section id="experience">
+        <h2>Work Experience</h2>
+        
+        <div class="job-card">
+            <div class="job-header">
+                <span class="job-title">QA Engineer</span>
+                <span class="date">February 2025 - Present</span>
+            </div>
+            <div class="company">FIT HUB</div>
+            <ul>
+                <li>Developing and maintaining robust test automation frameworks using Playwright (TS/JS) for UI/Web and API validation.</li>
+                <li>Ensuring application stability through comprehensive functional and non-functional testing across mobile and web platforms.</li>
+                <li>Collaborating in Agile ceremonies to address quality risks early in the development lifecycle.</li>
+                <li>Designing strategic test cases encompassing positive and negative scenarios aligned with business requirements.</li>
+            </ul>
+        </div>
+
+        <div class="job-card">
+            <div class="job-header">
+                <span class="job-title">QA Engineer</span>
+                <span class="date">January 2022 - February 2025</span>
+            </div>
+            <div class="company">OY! Indonesia</div>
+            <ul>
+                <li>Developed automation scripts using Robot Framework (Python) and Mocha/Chai for API regression testing.</li>
+                <li>Managed test cases in TestRail to ensure robust coverage and traceability.</li>
+                <li>Conducted meticulous manual testing and defect analysis to maintain high application quality.</li>
+                <li>Proactively communicated critical defects to facilitate faster resolution cycles.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <div class="job-header">
+            <span class="job-title">Bachelor of Engineering in Computer Engineering</span>
+            <span class="date">2014 - 2018</span>
+        </div>
+        <div style="font-weight: 500;">Telkom University</div>
+    </section>
+
 </body>
 </html>
